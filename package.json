@@ -1,8 +1,18 @@
 {
 	"name": "coffee-jsx-loader",
-	"version": "0.7.2",
-	"author": "Tobias Koppers @sokra",
-	"description": "coffee loader module for webpack",
+	"version": "0.1.0",
+	"keywords": [
+		"coffeescript",
+		"react",
+		"jsx",
+		"cjsx",
+		"coffee-react",
+		"webpack",
+		"webpack-loader",
+		"loader"
+	],
+	"author": "Jiri Sifalda @jsifalda, Tobias Koppers @sokra",
+	"description": "Coffeescript loader for webpack adding coffee-react-transform CJSX support",
 	"dependencies": {
 		"loader-utils": "0.2.x"
 	},
@@ -11,7 +21,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:webpack/coffee-loader.git"
+		"url": "git@github.com:jsifalda/coffee-jsx-loader.git"
 	},
 	"licenses": [
 		{
