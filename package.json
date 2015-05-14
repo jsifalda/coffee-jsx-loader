@@ -14,7 +14,7 @@
 	"author": "Jiri Sifalda @jsifalda, Tobias Koppers @sokra",
 	"description": "Coffeescript loader for webpack adding coffee-react-transform CJSX support",
 	"dependencies": {
-		"loader-utils": "0.2.x",
+		"loader-utils": "^0.2.7",
 		"coffee-react": "^3.2.0"
 	},
 	"repository": {
